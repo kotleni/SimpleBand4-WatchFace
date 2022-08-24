@@ -8,5 +8,5 @@ Just download from releases and install via AmazTools or other app.
 ### How to build
 1. Clone this repository
 2. Download AmazfitBipTools for Mi Band 4
-3. Execute WatchFace.exe with path to Watchface.json
+3. Execute WatchFace.exe with path to Watchface.json<br>
 (You can use mono-runtime on linux/macos)
