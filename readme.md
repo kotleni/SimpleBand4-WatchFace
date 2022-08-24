@@ -1,3 +1,4 @@
+<img src="https://github.com/kotleni/SimpleBand4-WatchFace/blob/master/preview.jpeg?raw=true" width=100><br>
 ## SimpleBand4 WatchFace
 Very simple watchface for Mi Band 4.
 
